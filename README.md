@@ -36,7 +36,7 @@
 └─$ ./profile_info.sh
 
 ╔═══════════════════════════════════════════════════════╗
-║          ACCESS GRANTED - LEVEL 10                   ║
+║          ACCESS GRANTED - LEVEL 99+                   ║
 ╚═══════════════════════════════════════════════════════╝
 
 [✓] USER........: Siva Vignesh
@@ -54,12 +54,13 @@
 [+] CURRENT FOCUS:
     • Mastering DSA in Python
     • Solving Problems on LeetCode
-    • Building Scalable Applications
+    • Building Scalable Websites & Web-Applications
+    • Learning Data Analytics & Data Science
     • Learning System Design
     • Contributing to Open Source
 
-[+] INTERESTS: [Web Development, Problem Solving, 
-                Open Source, Innovation]
+[+] INTERESTS: [Web Development, Animated Websites , 
+                Open Source, Innovation, New-Technology]
 
 [+] CONTACT: sivavigneshm92@gmail.com
 
