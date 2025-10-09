@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Siva+Vignesh;Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Building+Amazing+Projects+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Let's+Code+Together!+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Siva+Vignesh;Full+Stack+Developer+%F0%9F%92%BB;DATA+Analyst+%F0%9F%A7%A0;Building+Amazing+Projects+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Let's+Code+Together!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sivavigneshm-dev&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/sivavigneshm-dev?label=Followers&style=for-the-badge&color=00ff00&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Development-00ff00?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20Data%20Engineering-00ff00?style=for-the-badge" alt="focus" />
   <img src="https://img.shields.io/badge/Available%20For-Opportunities-00ff00?style=for-the-badge" alt="opportunities" />
 </div>
 
@@ -60,7 +60,7 @@
     • Contributing to Open Source
 
 [+] INTERESTS: [Web Development, Animated Websites , 
-                Open Source, Innovation, New-Technology]
+                DAtA Analytics, New-Technology]
 
 [+] CONTACT: sivavigneshm92@gmail.com
 
@@ -159,7 +159,7 @@
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80" alt="Target"/>
 <br><strong>Problem Solver</strong>
-<br><sub>DSA Master</sub>
+<br><sub>DSA in Python</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" alt="Rocket"/>
