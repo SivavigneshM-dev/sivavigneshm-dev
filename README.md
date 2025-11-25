@@ -36,7 +36,7 @@
 └─$ ./profile_info.sh
 
 ╔═══════════════════════════════════════════════════════╗
-║          ACCESS GRANTED - LEVEL 99+                   ║
+║          ACCESS GRANTED - LEVEL 99                   ║
 ╚═══════════════════════════════════════════════════════╝
 
 [✓] USER........: Siva Vignesh
@@ -46,21 +46,20 @@
 [✓] STATUS......: ONLINE & READY TO CODE
 
 [*] LOADING SKILLS...
-    ██████████ 100% Web Development
-    ████████░░  85% Problem Solving
-    █████████░  90% Full Stack Development
-    ███████░░░  75% DSA & Algorithms
+    ██████████ 80% Web Development
+    ████████░░  65% Problem Solving
+    █████████░  80% Full Stack Development
+    ███████░░░  45% DSA & Algorithms
 
 [+] CURRENT FOCUS:
-    • Mastering DSA in Python
-    • Solving Problems on LeetCode
     • Building Scalable Websites & Web-Applications
-    • Learning Data Analytics & Data Science
+    • Problem Solving
+    • Creating Animated websites 
     • Learning System Design
     • Contributing to Open Source
+    • Learning DSA in Python
 
-[+] INTERESTS: [Web Development, Animated Websites , 
-                DAtA Analytics, New-Technology]
+[+] INTERESTS: [Web Development, Animated Websites ,  New-Technology]
 
 [+] CONTACT: sivavigneshm92@gmail.com
 
