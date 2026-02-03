@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SIVA%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SIVA%20VIGNESH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Web%20Designer&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 [✓] USER........: Siva Vignesh
 [✓] ROLE........: Full Stack Developer
-[✓] MISSION.....: Mastering DSA in Python
+[✓] MISSION.....:  DSA in Python
 [✓] LOCATION....: Tamil Nadu, India
 [✓] STATUS......: ONLINE & READY TO CODE
 
